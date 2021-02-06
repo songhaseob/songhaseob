@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?text=HaseobCodingWorld!&fontSize=20&rotate=-30)
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<JAVA>&color=<brightgreen>
-https://img.shields.io/static/v1?label=<LABEL>&message=<JAVASCRIPT>&color=<yellowgreen>
+https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
 
 
 [![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
