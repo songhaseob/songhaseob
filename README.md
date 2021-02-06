@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?text=Haseob%CodingWorld!&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?text=HaseobCodingWorld!&fontSize=20&rotate=-30)
 
 
     
