@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?text=HaseobCodingWorld!&fontSize=20&rotate=-30)
-
+![footer](https://capsule-render.vercel.app/api?section=footer)
 
     
