@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?haseobsong=Kinetic27&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseobsong&show_icons=true&theme=radical)
 
 [![HitCount](http://hits.dwyl.com/{haseobsong}/{project}.svg)](http://hits.dwyl.com/{haseobsong}/{project})
 
