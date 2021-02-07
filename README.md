@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 	 
 
 
-:star::star::star:My Skill:star::star::star:
+#:star::star::star:My Skill:star::star::star:
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
