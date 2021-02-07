@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 	
 [![songhaseob github stats](https://github-readme-stats.vercel.app/api?username=songhaseob)](https://github.com/metleeha/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhaseob&layout=compact&theme=dracula)](https://github.com/metleeha)	 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhaseob&layout=compact)](https://github.com/metleeha)	 
 	 
 
 
