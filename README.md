@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 
-## ::see_no_evil::see_no_evil::see_no_evil::see_no_evil:My Info:see_no_evil::see_no_evil::see_no_evil::see_no_evil:
+## :see_no_evil::see_no_evil::see_no_evil::see_no_evil:My Info:see_no_evil::see_no_evil::see_no_evil::see_no_evil:
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:songhaseob@gmail.com)](mailto:songhaseob@gmail.com)
 
