@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Cylindertext=HaCoWorld&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=Cylinder text=HaCoWorld&fontAlign=70)
 
 [![songhaseob github stats](https://github-readme-stats.vercel.app/api?username=songhaseob&show_icons=true&theme=dracula)](https://github.com/metleeha/github-readme-stats)
 
