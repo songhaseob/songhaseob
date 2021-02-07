@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![songhaseob github stats](https://github-readme-stats.vercel.app/api?username=songhaseob&show_icons=true&theme=dracula)](https://github.com/metleeha/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhaseob&layout=compact&theme=dracula)](https://github.com/metleeha)	 
 	 
-	 <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
