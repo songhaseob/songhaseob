@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&text=HaCoWorld!👋&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=soft&text=HaCo World!👋&fontAlign=50)
 
 <div align=center>
 	
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 	 
 
 
+##My Skill
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 
-
+##My Info
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:songhaseob@gmail.com)](mailto:songhaseob@gmail.com)
 
