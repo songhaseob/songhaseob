@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-	 
+![header](https://capsule-render.vercel.app/api?type=Cylinder)
+
 [![songhaseob github stats](https://github-readme-stats.vercel.app/api?username=songhaseob&show_icons=true&theme=dracula)](https://github.com/metleeha/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhaseob&layout=compact&theme=dracula)](https://github.com/metleeha)	 
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
 
 
 
-
+![footer](https://capsule-render.vercel.app/api?section=footer)
 
 
 
