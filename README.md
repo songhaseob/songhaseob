@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
-	
+	 
+	 
+	 
+	 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:songhaseob@gmail.com)](mailto:songhaseob@gmail.com)
-  </div>
 
-[![HitCount](http://hits.dwyl.com/{songhaseob}/{project}.svg)](http://hits.dwyl.com/{haseobsong}/{project})
+[![HitCount](http://hits.dwyl.com/{songhaseob}/{project}.svg)](http://hits.dwyl.com/{songhaseob}/{project})
 
 
 
