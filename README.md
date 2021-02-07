@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=songhaseob)](https://github.com/anuraghazra/github-readme-stats)	 
 	 
-	 
+[![songhaseob github stats](https://github-readme-stats.vercel.app/api?username=songhaseob&show_icons=true&theme=dracula)](https://github.com/metleeha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhaseob&layout=compact&theme=dracula)](https://github.com/metleeha)	 
 	 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:songhaseob@gmail.com)](mailto:songhaseob@gmail.com)
 
