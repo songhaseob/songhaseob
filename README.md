@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&text=⚡HaCoWorld!⚡&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=soft&text=⭐HaCoWorld!⭐&fontAlign=50)
 
 <div align=center>
 	
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 
-## :see_no_evil::see_no_evil::see_no_evil:My Info:see_no_evil::see_no_evil::see_no_evil:
+## :⚡⚡⚡My Info⚡⚡⚡
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:songhaseob@gmail.com)](mailto:songhaseob@gmail.com)
 
