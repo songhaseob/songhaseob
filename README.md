@@ -1,4 +1,4 @@
-### HaCo World 👋
+
 
 <!--
 **songhaseob/songhaseob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&text=HaCoWorld!&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=soft&text=HaCoWorld!👋&fontAlign=50)
 
 
 [![songhaseob github stats](https://github-readme-stats.vercel.app/api?username=songhaseob&show_icons=true&theme=dracula)](https://github.com/metleeha/github-readme-stats)
