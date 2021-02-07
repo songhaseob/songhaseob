@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&text=HaCo World!👋&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=soft&text=HaCoWorld!👋&fontAlign=50)
 
 <div align=center>
 	
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+
 
 
 :see_no_evil::see_no_evil::see_no_evil:My Info:see_no_evil::see_no_evil::see_no_evil:
